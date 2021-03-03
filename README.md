@@ -5,8 +5,11 @@
 ## 📚 Projects
 
 - [얼굴 식별 서버 (face classification server)](https://github.com/KPUMorgorithm/frames-classification-server)
+  - ![](https://raw.githubusercontent.com/outstanding1301/FRAMES/master/face_classification_server.png)
 - [클라이언트 소프트웨어 (client software)](https://github.com/KPUMorgorithm/frames-client)
+  - ![](https://raw.githubusercontent.com/outstanding1301/FRAMES/master/client.png)
 - [웹 서버 (web application server)](https://github.com/KPUMorgorithm/frames-web-server)
+  - ![](https://raw.githubusercontent.com/outstanding1301/FRAMES/master/was.png)
 
 
 ## 🔥 Team Morgorithm
